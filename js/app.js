@@ -75,7 +75,6 @@ const onScrollHandler = () => {
 };
 
 // build the nav
-
 sections.forEach(el => {
   createMenuItem(el);
 });
